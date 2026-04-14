@@ -17,3 +17,10 @@
 - git branch
 - git switch ss
 - git add imie_i_nazwisko.txt
+- git add README.md
+- git commit -m "Zadanie 2"
+
+# Zadanie 3
+
+![punkt1]{zdj1.png}
+![punkt2]{zdj2.png}
