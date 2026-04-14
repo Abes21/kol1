@@ -24,3 +24,4 @@
 
 ![punkt1]{zdj1.png}
 ![punkt2]{zdj2.png}
+![punkt3]{zdj3.png}
